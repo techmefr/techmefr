@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20265
-Fork on GitHub6169
+
 <h1 align="center">Bonjour et bienvenue sur mon profil GitHub 👋, je suis Gaëtan Compigni</h1>
 <h3 align="center">Je suis développeur d'applications (CDA) orienté en JavaScript et React. Actuellement, j'apprends Next.js pour renforcer mes compétences en développement de sites web performants et scalables. Passionné par l'expérience utilisateur et l'ergonomie, je veille à ce que mes applications soient intuitives et agréables à utiliser.</h3>
 

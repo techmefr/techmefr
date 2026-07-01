@@ -1,145 +1,148 @@
 <div align="center">
-  <!-- Profil image -->
-  <img src="https://avatars.githubusercontent.com/u/51131564?s=400&u=3cb50b9bf1caa3bf846b77707f5ef5c18bbe4c5e&v=4" alt="Profile Image" width="150" style="border-radius: 50%;" />
-  <!-- Bannière personnalisée -->
   <img src="https://github.com/techmefr/techmefr/blob/main/banner-EN-github.png?raw=true" alt="Banner" width="100%" />
 </div>
 
-# 💫 About Me:
-🔭 **I'm currently working on:** FamiListe, a senior-friendly application with offline-first architecture using React/React Native and Supabase.  
-👯 **I'm looking to collaborate on:** Projects focused on UX and accessibility, especially those making applications more intuitive for all users.  
-🤔 **I'm looking for help with:** Performance optimization and implementing advanced DevOps practices.  
-🌱 **I'm currently learning:** VueJS, NextJS, Astro JS and NestJS to strengthen my skills in developing high-performance, scalable web applications.  
-💬 **Ask me about:** Interface ergonomics, application accessibility, or my career transition from retail to development.  
-⚡ **Fun fact:** After 18 years in retail and event management, I apply customer experience principles to create more human-centered interfaces.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/51131564?s=400&u=3cb50b9bf1caa3bf846b77707f5ef5c18bbe4c5e&v=4" alt="Profile Image" width="120" style="border-radius: 50%;" />
+</div>
 
-**Discover more about my work and my upcoming articles at [gcompi.fr](https://www.gcompi.fr) (Articles: à venir)**
+<div align="center">
+  <a href="https://www.gcompi.fr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=560&lines=Frontend+engineer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<div align="center">
+  <a href="https://www.gcompi.fr"><img src="https://img.shields.io/badge/Website-gcompi.fr-128F8B?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/techmefr"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/techmefr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://codepen.io/techmefr"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+</div>
+
+<br/>
+
+## 💫 About Me
+
+- 🛩️ &nbsp;**Currently building** [**pilota**](https://github.com/techmefr/pilota) — a backend-agnostic frontend SDK that talks to REST, GraphQL and WebSocket through a single call grammar. Write your logic once, swap the protocol underneath.
+- 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design — and keeping things ergonomic and accessible for whoever actually uses them.
+- 🛠️ &nbsp;**Ask me about** SDK & API-transport design, TypeScript monorepos, form engines, build-time plugins, and keyboard ergonomics.
+- 🌱 &nbsp;**Always tinkering with** TypeScript, Vue/Nuxt, Svelte, React, Zod, and the tooling around monorepos (pnpm, Vitest, Playwright).
+- ⚡ &nbsp;**Fun fact** — 18 years in retail and events before switching to dev. I still design software the way I learned to serve people: around the person using it.
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### FamiListe (01/2025 - Present)
-A senior-friendly application with offline-first architecture using React/React Native and Supabase, featuring automated deployment via Docker and GitHub Actions.
+> ### 🛩️ &nbsp;[pilota](https://github.com/techmefr/pilota) &nbsp;·&nbsp; backend-agnostic frontend SDK
+> One grammar for **REST, GraphQL and WebSocket**. Point the same app at a Laravel/Lomkit REST API, a Hasura endpoint or a Supabase realtime backend without touching your business code. Modular by design — `nexdk` SDK · `beepr` events · `chaff` mocking — with playgrounds for Vue, React, Svelte, Angular and Astro.
+>
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techmefr/FamiListe)  
-[![Website](https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=web&logoColor=white)](https://app.familiste.fr)
+> ### ⌨️ &nbsp;[clavis-lab](https://github.com/techmefr/clavis-lab) &nbsp;·&nbsp; ergonomic keyboard layout editor
+> A visual editor for the **Cheapino V2** 36-key split keyboard. Edit 8 layers, configure home-row mods and rotary encoders, export every layer to PDF. Ergo-L, AZERTY, BÉPO and QWERTY. Nuxt 4, zero external UI dependencies.
+>
+> ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Wild Chat (08/2024 - 10/2024)
-An educational online platform allowing professors to manage their classes remotely with attendance tracking, real-time interactions, and immersive experience.
+> ### 🧹 &nbsp;[Datapower](https://github.com/techmefr/Datapower) &nbsp;·&nbsp; strip test attributes at build time
+> A build plugin that removes `data-*` test attributes from production while keeping them in dev and test — stable E2E selectors, clean production DOM. Ships as `@datapower/unplugin` & `@datapower/bun` across Vite, Rollup, Webpack, esbuild and Bun.
+>
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techmefr/WildChat)
+> ### 🎯 &nbsp;[callis](https://github.com/techmefr/callis) &nbsp;·&nbsp; no-code guided tours & tooltips
+> A visual builder for interactive walkthroughs and tooltips — **no code required** — with a browser bookmarklet to author tours directly on a live site.
+>
+> ![Vue.js](https://img.shields.io/badge/Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-**Technologies:** WebRTC, NestJS, TypeScript, React, PeerJs, Websocket, Zod, MVC
+> ### 🎲 &nbsp;[pathomino](https://github.com/techmefr/pathomino) &nbsp;·&nbsp; puzzle-roguelike in the browser
+> Trace your path with **tetrominos**, fight with **poker hands**, survive as long as you can. Self-contained, zero runtime dependencies — runs offline straight from a `file://` URL.
+>
+> ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-### Wild Chart (04/2024 - 05/2024)
-A React charting library for data visualization with dynamic chart transformation, published on npm with comprehensive documentation.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WildCodeSchool-CDA-LYON-02-2024/wcs-chart-lib)
+## 💻 Tech Stack
 
-**Technologies:** React, JavaScript, npm
+**Frontend**
 
----
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaetancompigni)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/techmefr)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techmefr)  
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/techmefr)  
+**Backend**
 
----
-
-## 💻 Tech Stack:
-
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+**Languages**
 
-### Database Systems
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Data & Backends**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hasura](https://img.shields.io/badge/hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)  
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+**Tooling & DevOps**
 
-### Development Tools
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-### Design & UI/UX
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Design & Hardware**
 
-### Other Tools & Interests
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
-![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)  
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
+<br/>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techmefr&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techmefr&theme=react&hide_border=false" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techmefr&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9D4EDD&icon_color=44D62C&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techmefr&hide_border=true&background=0D1117&stroke=128F8B&ring=9D4EDD&fire=44D62C&currStreakLabel=9D4EDD&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmefr&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmefr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techmefr&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techmefr&hide_border=true&area=true&bg_color=0D1117&color=9D4EDD&line=44D62C&point=128F8B&title_color=9D4EDD" alt="Activity Graph" width="96%" />
 </div>
 
----
+<br/>
 
-### 🔝 Top Contributed Repo
+## 🏆 Trophies
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=techmefr&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=techmefr&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
----
+<br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=120&section=footer" alt="footer" width="100%" />
+  <br/>
   <img src="https://visitcount.itsvg.in/api?id=techmefr&icon=0&color=0" alt="Visit Count" />
 </div>

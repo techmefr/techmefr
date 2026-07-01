@@ -7,16 +7,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.gcompi.fr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.gcompi.fr"><img src="https://img.shields.io/badge/Website-gcompi.fr-128F8B?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/techmefr"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/techmefr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://codepen.io/techmefr"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </div>
 

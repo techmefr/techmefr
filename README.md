@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.gcompi.fr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=560&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
   </a>
 </div>
 

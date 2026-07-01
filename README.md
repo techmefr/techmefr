@@ -25,9 +25,11 @@
 ## 💫 About Me
 
 - 🛩️ &nbsp;**Currently building** [**pilota**](https://github.com/techmefr/pilota) — a backend-agnostic frontend SDK that talks to REST, GraphQL and WebSocket through a single call grammar. Write your logic once, swap the protocol underneath.
-- 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design — and keeping things ergonomic and accessible for whoever actually uses them.
+- 🎨 &nbsp;**I love UX** — clean, intuitive interfaces and accessibility come first. I like building things that feel obvious to the person actually using them.
+- 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design, and keeping everything ergonomic and accessible.
+- 🚀 &nbsp;**Currently exploring** [Astro](https://astro.build) for fast, content-first sites — alongside the SDK and tooling work.
 - 🛠️ &nbsp;**Ask me about** SDK & API-transport design, TypeScript monorepos, form engines, build-time plugins, and keyboard ergonomics.
-- 🌱 &nbsp;**Always tinkering with** TypeScript, Vue/Nuxt, Svelte, React, Zod, and the tooling around monorepos (pnpm, Vitest, Playwright).
+- 🌱 &nbsp;**Always tinkering with** TypeScript, Vue/Nuxt, Astro, Svelte, React, Zod, and the tooling around monorepos (pnpm, Vitest, Playwright).
 - ⚡ &nbsp;**Fun fact** — 18 years in retail and events before switching to dev. I still design software the way I learned to serve people: around the person using it.
 
 <br/>
@@ -144,5 +146,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=120&section=footer" alt="footer" width="100%" />
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=techmefr&icon=0&color=0" alt="Visit Count" />
+  <img src="https://komarev.com/ghpvc/?username=techmefr&label=Profile+views&color=9D4EDD&style=for-the-badge" alt="Profile views" />
 </div>

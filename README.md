@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Exhaustive+test+doctrines+for+AI+agents+%28test-casebook%29;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,6 +20,7 @@
 ## 💫 About Me
 
 - 🛩️ &nbsp;**Currently building** [**pilota**](https://github.com/techmefr/pilota) — a backend-agnostic frontend SDK that talks to REST, GraphQL and WebSocket through a single call grammar. Write your logic once, swap the protocol underneath.
+- 🧪 &nbsp;**Also building** [**test-casebook**](https://github.com/techmefr/test-casebook) — an exhaustive, persona-matrix-driven testing doctrine for AI coding agents, ported across frontend ([test-casebook](https://github.com/techmefr/test-casebook)), Node/TS ([test-casebook-back-js](https://github.com/techmefr/test-casebook-back-js)) and PHP ([test-casebook-back-php](https://github.com/techmefr/test-casebook-back-php)) backends.
 - 🎨 &nbsp;**I love UX** — clean, intuitive interfaces and accessibility come first. I like building things that feel obvious to the person actually using them.
 - 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design, and keeping everything ergonomic and accessible.
 - 🚀 &nbsp;**Currently exploring** [Astro](https://astro.build) for fast, content-first sites — alongside the SDK and tooling work.
@@ -35,6 +36,11 @@
 > One grammar for **REST, GraphQL and WebSocket**. Point the same app at a Laravel/Lomkit REST API, a Hasura endpoint or a Supabase realtime backend without touching your business code. Modular by design — `nexdk` SDK · `beepr` events · `chaff` mocking — with playgrounds for Vue, React, Svelte, Angular and Astro.
 >
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+> ### 🧪 &nbsp;[test-casebook](https://github.com/techmefr/test-casebook) &nbsp;·&nbsp; exhaustive testing doctrine for AI agents
+> A playbook that stops an AI from writing happy-path-only tests: plan every case from the source first, weight the persona matrix on what gets *refused* not just what's allowed, gate every block behind an independent review, enforce a real coverage floor. Validated end to end on 18 frameworks across three repos — frontend/DOM, [Node/TS backends](https://github.com/techmefr/test-casebook-back-js), and [PHP backends](https://github.com/techmefr/test-casebook-back-php).
+>
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
 
 > ### ⌨️ &nbsp;[clavis-lab](https://github.com/techmefr/clavis-lab) &nbsp;·&nbsp; ergonomic keyboard layout editor
 > A visual editor for the **Cheapino V2** 36-key split keyboard. Edit 8 layers, configure home-row mods and rotary encoders, export every layer to PDF. Ergo-L, AZERTY, BÉPO and QWERTY. Nuxt 4, zero external UI dependencies.

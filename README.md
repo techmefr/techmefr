@@ -12,7 +12,6 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codepen.io/techmefr"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </div>
 
 <br/>
@@ -23,9 +22,9 @@
 - 🧪 &nbsp;**Also building** [**test-casebook**](https://github.com/techmefr/test-casebook) — an exhaustive, persona-matrix-driven testing doctrine for AI coding agents, ported across frontend ([test-casebook](https://github.com/techmefr/test-casebook)), Node/TS ([test-casebook-back-js](https://github.com/techmefr/test-casebook-back-js)) and PHP ([test-casebook-back-php](https://github.com/techmefr/test-casebook-back-php)) backends.
 - 🎨 &nbsp;**I love UX** — clean, intuitive interfaces and accessibility come first. I like building things that feel obvious to the person actually using them.
 - 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design, and keeping everything ergonomic and accessible.
-- 🚀 &nbsp;**Currently exploring** [Astro](https://astro.build) for fast, content-first sites — alongside the SDK and tooling work.
-- 🛠️ &nbsp;**Ask me about** SDK & API-transport design, TypeScript monorepos, form engines, build-time plugins, and keyboard ergonomics.
-- 🌱 &nbsp;**Always tinkering with** TypeScript, Vue/Nuxt, Astro, Svelte, React, Zod, and the tooling around monorepos (pnpm, Vitest, Playwright).
+- 🚀 &nbsp;**Also shipping on** Astro and Svelte, alongside the SDK and tooling work.
+- 🛠️ &nbsp;**Ask me about** SDK & API-transport design, TypeScript monorepos, form engines, build-time plugins, keyboard ergonomics, and test-suite design across PHP and Node.
+- 🌱 &nbsp;**Always tinkering with** TypeScript, PHP, Vue/Nuxt, Astro, Svelte, React, Zod, and the tooling around monorepos (pnpm, Vitest, Playwright, PHPUnit).
 - ⚡ &nbsp;**Fun fact** — 18 years in retail and events before switching to dev. I still design software the way I learned to serve people: around the person using it.
 
 <br/>
@@ -79,6 +78,7 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)

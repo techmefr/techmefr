@@ -18,6 +18,7 @@
 
 ## 💫 About Me
 
+- 🔭 &nbsp;**Currently focused on** validating [**test-casebook**](https://github.com/techmefr/test-casebook) against real open-source projects — not just synthetic worked examples.
 - 🛩️ &nbsp;**Currently building** [**pilota**](https://github.com/techmefr/pilota) — a backend-agnostic frontend SDK that talks to REST, GraphQL and WebSocket through a single call grammar. Write your logic once, swap the protocol underneath.
 - 🧪 &nbsp;**Also building** [**test-casebook**](https://github.com/techmefr/test-casebook) — an exhaustive, persona-matrix-driven testing doctrine for AI coding agents, ported across frontend ([test-casebook](https://github.com/techmefr/test-casebook)), Node/TS ([test-casebook-back-js](https://github.com/techmefr/test-casebook-back-js)) and PHP ([test-casebook-back-php](https://github.com/techmefr/test-casebook-back-php)) backends.
 - 🎨 &nbsp;**I love UX** — clean, intuitive interfaces and accessibility come first. I like building things that feel obvious to the person actually using them.
@@ -128,6 +129,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmefr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <div align="center">

@@ -95,12 +95,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=techmefr&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9D4EDD&icon_color=44D62C&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="profile/stats.svg" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techmefr&hide_border=true&background=0D1117&stroke=128F8B&ring=9D4EDD&fire=44D62C&currStreakLabel=9D4EDD&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=techmefr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=9D4EDD&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="profile/top-langs.svg" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">

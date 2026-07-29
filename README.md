@@ -109,10 +109,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techmefr&hide_border=true&area=true&bg_color=0D1117&color=9D4EDD&line=44D62C&point=128F8B&title_color=9D4EDD" alt="Activity Graph" width="96%" />
-</div>
-
 <br/>
 
 ## 🏆 Trophies

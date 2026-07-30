@@ -90,16 +90,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techmefr&hide_border=true&background=0D1117&stroke=128F8B&ring=9D4EDD&fire=44D62C&currStreakLabel=9D4EDD&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="profile/top-langs.svg" alt="Top Languages" width="48%" />
-</div>
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -107,14 +98,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techmefr&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>

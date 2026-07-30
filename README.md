@@ -45,8 +45,8 @@
 >
 > ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-> ### 🧹 &nbsp;[Datapower](https://github.com/techmefr/Datapower) &nbsp;·&nbsp; strip test attributes at build time
-> A build plugin that removes `data-*` test attributes from production while keeping them in dev and test — stable E2E selectors, clean production DOM. Ships as `@datapower/unplugin` & `@datapower/bun` across Vite, Rollup, Webpack, esbuild and Bun.
+> ### 🧹 &nbsp;[env-attr-cleaner](https://github.com/techmefr/env-attr-cleaner) &nbsp;·&nbsp; strip test attributes at build time
+> A build plugin that removes `data-*` test attributes from production while keeping them in dev and test — stable E2E selectors, clean production DOM. Ships as `@datapower/unplugin` & `@datapower/bun` across Vite, Rollup, Webpack, esbuild and Bun. Running in production across several Xefi business units — Nuxt/Vue, React and Omnysis projects alike.
 >
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 

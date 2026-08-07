@@ -18,7 +18,7 @@
 
 ## 💫 About Me
 
-- 🛩️ &nbsp;**Currently building** [**pilota**](https://github.com/techmefr/pilota) — a backend-agnostic frontend SDK that talks to REST, GraphQL and WebSocket through a single call grammar. Write your logic once, swap the protocol underneath.
+- 🛠️ &nbsp;**Currently building** [**HeryJs**](https://github.com/techmefr/HeryJs) — a framework on top of NestJS that generates a real, ownable codebase (auth, permissions, multi-tenancy) instead of a live schema you have to keep in sync.
 - 🧪 &nbsp;**Currently focused on** [**test-casebook**](https://github.com/techmefr/test-casebook) — an exhaustive testing doctrine for AI agents, ported across frontend, [Node/TS](https://github.com/techmefr/test-casebook-back-js) and [PHP](https://github.com/techmefr/test-casebook-back-php) backends, now being validated against real open-source projects.
 - 🎨 &nbsp;**I love UX** — clean, intuitive interfaces and accessibility come first. I like building things that feel obvious to the person actually using them.
 - 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design, and keeping everything ergonomic and accessible.
@@ -30,35 +30,30 @@
 
 ## 🚀 Featured Projects
 
-> ### 🛩️ &nbsp;[pilota](https://github.com/techmefr/pilota) &nbsp;·&nbsp; backend-agnostic frontend SDK
-> One grammar for **REST, GraphQL and WebSocket**. Point the same app at a Laravel/Lomkit REST API, a Hasura endpoint or a Supabase realtime backend without touching your business code. Modular by design — `nexdk` SDK · `beepr` events · `chaff` mocking — with playgrounds for Vue, React, Svelte, Angular and Astro.
+> ### 🛠️ &nbsp;[HeryJs](https://github.com/techmefr/HeryJs) &nbsp;·&nbsp; a framework on top of NestJS
+> Generate once, own your code. A CLI scaffolds a real, readable NestJS codebase — auth, permissions resolved server-side, multi-tenancy as a foundation — instead of a schema that keeps re-syncing at runtime. The way Nuxt sits on Vue, HeryJs sits on NestJS.
 >
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> ### 🔌 &nbsp;[nexdk](https://github.com/techmefr/nexdk) &nbsp;·&nbsp; driver-based, backend-agnostic SDK
+> One resource grammar — `sdk.[driver].[resource].[method]` — for **REST, GraphQL and WebSocket**. Declare a resource once against a [Standard Schema](https://standardschema.dev) validator (Zod, Valibot, ArkType…) and swap the driver underneath without touching the calling code.
+>
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 > ### 🧪 &nbsp;[test-casebook](https://github.com/techmefr/test-casebook) &nbsp;·&nbsp; exhaustive testing doctrine for AI agents
 > A playbook that stops an AI from writing happy-path-only tests: plan every case from the source first, weight the persona matrix on what gets *refused* not just what's allowed, gate every block behind an independent review, enforce a real coverage floor. Validated end to end on 18 frameworks across three repos — frontend/DOM, [Node/TS backends](https://github.com/techmefr/test-casebook-back-js), and [PHP backends](https://github.com/techmefr/test-casebook-back-php).
 >
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
 
-> ### ⌨️ &nbsp;[clavis-lab](https://github.com/techmefr/clavis-lab) &nbsp;·&nbsp; ergonomic keyboard layout editor
-> A visual editor for the **Cheapino V2** 36-key split keyboard. Edit 8 layers, configure home-row mods and rotary encoders, export every layer to PDF. Ergo-L, AZERTY, BÉPO and QWERTY. Nuxt 4, zero external UI dependencies.
->
-> ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 > ### 🧹 &nbsp;[env-attr-cleaner](https://github.com/techmefr/env-attr-cleaner) &nbsp;·&nbsp; strip test attributes at build time
 > A build plugin that removes `data-*` test attributes from production while keeping them in dev and test — stable E2E selectors, clean production DOM. Ships as `@datapower/unplugin` & `@datapower/bun` across Vite, Rollup, Webpack, esbuild and Bun. Running in production across several Xefi business units, on both Nuxt and React/Next.js codebases.
 >
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-> ### 🎯 &nbsp;[callis](https://github.com/techmefr/callis) &nbsp;·&nbsp; no-code guided tours & tooltips
-> A visual builder for interactive walkthroughs and tooltips — **no code required** — with a browser bookmarklet to author tours directly on a live site.
+> ### 📱 &nbsp;[v0-adaptive-table](https://github.com/techmefr/v0-adaptive-table) &nbsp;·&nbsp; responsive table/card renderer for @vuetify/v0
+> `@vuetify/v0` ships table logic (sorting, filtering, pagination, selection) but no visual layer and no table-to-card responsive mode — this package adds both. One field config drives a desktop table and a mobile card list, unstyled by default with an opt-in Material-ish stylesheet.
 >
-> ![Vue.js](https://img.shields.io/badge/Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
-> ### 🎲 &nbsp;[pathomino](https://github.com/techmefr/pathomino) &nbsp;·&nbsp; puzzle-roguelike in the browser
-> Trace your path with **tetrominos**, fight with **poker hands**, survive as long as you can. Self-contained, zero runtime dependencies — runs offline straight from a `file://` URL.
->
-> ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 <br/>
 

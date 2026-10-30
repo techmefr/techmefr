@@ -35,8 +35,8 @@
 >
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> ### 🔌 &nbsp;[nexdk](https://github.com/techmefr/nexdk) &nbsp;·&nbsp; driver-based, backend-agnostic SDK
-> One resource grammar — `sdk.[driver].[resource].[method]` — for **REST, GraphQL and WebSocket**. Declare a resource once against a [Standard Schema](https://standardschema.dev) validator (Zod, Valibot, ArkType…) and swap the driver underneath without touching the calling code.
+> ### 🔌 &nbsp;[neXdk](https://github.com/techmefr/nexdk) &nbsp;·&nbsp; driver-based, backend-agnostic SDK
+> One SDK — `sdk.[driver].[resource].[method]` — for **REST, GraphQL and WebSocket**. Declare a resource once against a [Standard Schema](https://standardschema.dev) validator (Zod, Valibot, ArkType…) and swap the driver underneath without touching the calling code.
 >
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
@@ -56,6 +56,24 @@
 > ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 <br/>
+
+## 🧩 TypeScript ecosystem
+
+Three independent libraries that compose around the same data flow:
+
+| Project | Purpose |
+|---|---|
+| [**neXdk**](https://github.com/techmefr/nexdk) | Typed SDK for REST, GraphQL and WebSocket, using interchangeable backend drivers. |
+| [**beepr**](https://github.com/techmefr/beepr) | Typed event and notification engine, built on hookable. |
+| [**shamock**](https://github.com/techmefr/shamock) | Schema-driven mock engine: fixtures, mock data and offline fallback, validated through Standard Schema. |
+
+<p align="center">
+  <a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo.png" alt="neXdk" width="240"></a>
+  <a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="240"></a>
+  <a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="240"></a>
+</p>
+
+[neXdk docs](https://techmefr.github.io/nexdk/) · [beepr docs](https://techmefr.github.io/beepr/) · [shamock docs](https://techmefr.github.io/shamock/)
 
 ## 💻 Tech Stack
 

@@ -68,7 +68,7 @@ Three independent libraries that compose around the same data flow:
 | [**shamock**](https://github.com/techmefr/shamock) | Schema-driven mock engine: fixtures, mock data and offline fallback, validated through Standard Schema. |
 
 <p align="center">
-  <a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo.png" alt="neXdk" width="240"></a>
+  <a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo-lockup.svg" alt="neXdk" width="240"></a>
   <a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="240"></a>
   <a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="240"></a>
 </p>

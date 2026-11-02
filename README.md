@@ -59,21 +59,25 @@
 
 ## 🧩 TypeScript ecosystem
 
-Three independent libraries that compose around the same data flow:
+Four independent libraries that compose around the same data flow:
 
 | Project | Purpose |
 |---|---|
 | [**neXdk**](https://github.com/techmefr/nexdk) | Typed SDK for REST, GraphQL and WebSocket, using interchangeable backend drivers. |
+| [**dialectr**](https://github.com/techmefr/dialectr) | Typed query builder with Lomkit, PocketBase and Strapi adapters. |
 | [**beepr**](https://github.com/techmefr/beepr) | Typed event and notification engine, built on hookable. |
 | [**shamock**](https://github.com/techmefr/shamock) | Schema-driven mock engine: fixtures, mock data and offline fallback, validated through Standard Schema. |
 
 <p align="center">
-  <a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo-lockup.svg" alt="neXdk" width="240"></a>
-  <a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="240"></a>
-  <a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="240"></a>
+  <a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo-lockup.svg" alt="neXdk" width="190"></a>
+  <a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="190"></a>
+  <a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="190"></a>
+  <a href="https://github.com/techmefr/dialectr"><img src="https://raw.githubusercontent.com/techmefr/dialectr/main/docs/public/logo.png" alt="dialectr" width="190"></a>
 </p>
 
 [neXdk docs](https://techmefr.github.io/nexdk/) · [beepr docs](https://techmefr.github.io/beepr/) · [shamock docs](https://techmefr.github.io/shamock/)
+
+[dialectr docs](https://techmefr.github.io/dialectr/) · One query, any dialect
 
 ## 💻 Tech Stack
 

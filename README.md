@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=200&section=header&text=Ga%C3%ABtan%20Compigni&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20developer%20%C2%B7%20open-source%20builder&descSize=18&descAlignY=58" alt="Gaëtan Compigni, frontend developer and open-source builder" width="100%" />
+# Gaëtan Compigni
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=720&height=40&lines=Generate+your+NestJS+backend%2C+then+own+every+line;One+SDK%2C+any+backend;Tools+that+run+in+your+browser%2C+no+account+needed;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Generate your NestJS backend, then own every line. One SDK, any backend. Tools that run in your browser. 18 years in retail, now shipping open source." />
+**Frontend developer · open-source builder**
+
+A NestJS framework, the TypeScript libraries around it,<br/>and the apps and tools I build with them.
 
 <a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/techmefr?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>
@@ -36,25 +38,25 @@ I spent 18 years in retail and events before switching to code, and I still buil
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo.png" alt="neXdk" width="120" /></a><br/>
+<a href="https://github.com/techmefr/nexdk"><img src="assets/logos/nexdk.svg" alt="neXdk" width="96" /></a><br/>
 <b><a href="https://github.com/techmefr/nexdk">neXdk</a></b><br/>
 <sub>One SDK for REST, GraphQL and WebSocket, any backend</sub><br/>
 <a href="https://techmefr.github.io/nexdk/">Docs</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/techmefr/dialectr"><img src="https://raw.githubusercontent.com/techmefr/dialectr/main/docs/public/logo.png" alt="dialectr" width="120" /></a><br/>
+<a href="https://github.com/techmefr/dialectr"><img src="assets/logos/dialectr.svg" alt="dialectr" width="96" /></a><br/>
 <b><a href="https://github.com/techmefr/dialectr">dialectr</a></b><br/>
 <sub>One query, any dialect: Lomkit, PocketBase, Strapi</sub><br/>
 <a href="https://techmefr.github.io/dialectr/">Docs</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="120" /></a><br/>
+<a href="https://github.com/techmefr/beepr"><img src="assets/logos/beepr.svg" alt="beepr" width="96" /></a><br/>
 <b><a href="https://github.com/techmefr/beepr">beepr</a></b><br/>
 <sub>Typed events and notifications, composable adapters</sub><br/>
 <a href="https://techmefr.github.io/beepr/">Docs</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="120" /></a><br/>
+<a href="https://github.com/techmefr/shamock"><img src="assets/logos/shamock.svg" alt="shamock" width="96" /></a><br/>
 <b><a href="https://github.com/techmefr/shamock">shamock</a></b><br/>
 <sub>Schema-driven mocks and offline fallback</sub><br/>
 <a href="https://techmefr.github.io/shamock/">Docs</a>
@@ -69,7 +71,7 @@ I spent 18 years in retail and events before switching to code, and I still buil
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/techmefr/lumia/main/docs/brand/lumia-icon.svg" alt="" width="48" align="left" />
+<img src="assets/logos/lumia.svg" alt="" width="56" align="left" />
 <b><a href="https://github.com/techmefr/lumia">Lumia</a></b><br/>
 <sub>Self-hosted RSS reader</sub>
 <br clear="left"/>
@@ -77,7 +79,7 @@ Strips articles down to the article, summarises them and learns your tastes. Pla
 <a href="https://techmefr.github.io/lumia/"><b>Live demo →</b></a>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/techmefr/familist/main/static/logo.svg" alt="" width="48" align="left" />
+<img src="assets/logos/familist.svg" alt="" width="56" align="left" />
 <b><a href="https://github.com/techmefr/familist">FamiList</a></b><br/>
 <sub>Household shopping list</sub>
 <br clear="left"/>
@@ -87,7 +89,7 @@ Reorders itself along the real aisle layout of each shop, so you walk the store 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/techmefr/amiludo/main/design/logo/amiludo-app-icon.svg" alt="" width="48" align="left" />
+<img src="assets/logos/amiludo.svg" alt="" width="56" align="left" />
 <b><a href="https://github.com/techmefr/amiludo">amiLudo</a></b><br/>
 <sub>Board game night companion</sub>
 <br clear="left"/>
@@ -110,7 +112,7 @@ Paper books read aloud by the people you love, each voice with its own color.<br
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/techmefr/kodilo/main/public/apple-touch-icon.png" alt="" width="48" align="left" />
+<img src="assets/logos/kodilo.svg" alt="" width="56" align="left" />
 <b><a href="https://github.com/techmefr/kodilo">kodilo</a></b><br/>
 <sub>238 tools in your browser</sub>
 <br clear="left"/>
@@ -118,7 +120,7 @@ JSON, encoding, email, colors and more. No sign-up, no account, no tracking.<br/
 <a href="https://techmefr.github.io/kodilo/"><b>Open kodilo →</b></a>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/techmefr/forge-ops/main/src-tauri/app-icon.svg" alt="" width="48" align="left" />
+<img src="assets/logos/forge-ops.svg" alt="" width="56" align="left" />
 <b><a href="https://github.com/techmefr/forge-ops">forge-ops</a></b><br/>
 <sub>Proof-driven board for coding agents</sub>
 <br clear="left"/>
@@ -173,5 +175,3 @@ A story only moves forward with evidence on disk, a twin test story and a final 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=110&section=footer" alt="" width="100%" />

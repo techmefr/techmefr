@@ -1,126 +1,61 @@
-<div align="center">
-  <img src="https://github.com/techmefr/techmefr/blob/main/banner-EN-github.png?raw=true" alt="Banner" width="100%" />
-</div>
+## Hi, I'm Gaëtan
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/51131564?s=400&u=3cb50b9bf1caa3bf846b77707f5ef5c18bbe4c5e&v=4" alt="Profile Image" width="120" style="border-radius: 50%;" />
-</div>
+Frontend developer and open-source builder. I spent 18 years in retail and events before switching to code, and I still design software around the person who uses it: clear interfaces, accessibility first, tools that feel obvious.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Exhaustive+test+doctrines+for+AI+agents+%28test-casebook%29;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Typing SVG" />
-</div>
+Most of my work is TypeScript: a backend framework, the libraries around it, and the apps and tools I build with them.
 
-<div align="center">
-  <a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaetancompigni)
 
-<br/>
+## Flagship: HeryJs and its toolkit
 
-## 💫 About Me
+**[HeryJs](https://github.com/techmefr/HeryJs)** is a batteries-included framework for NestJS. Generate secured, multi-tenant resources from a blueprint, then own every line: auth, RBAC, Postgres RLS, jobs, real time, vector search, OpenAPI. [Docs](https://techmefr.github.io/HeryJs/)
 
-- 🛠️ &nbsp;**Currently building** [**HeryJs**](https://github.com/techmefr/HeryJs) — a framework on top of NestJS that generates a real, ownable codebase (auth, permissions, multi-tenancy) instead of a live schema you have to keep in sync.
-- 🧪 &nbsp;**Currently focused on** [**test-casebook**](https://github.com/techmefr/test-casebook) — an exhaustive testing doctrine for AI agents, ported across frontend, [Node/TS](https://github.com/techmefr/test-casebook-back-js) and [PHP](https://github.com/techmefr/test-casebook-back-php) backends, now being validated against real open-source projects.
-- 🎨 &nbsp;**I love UX** — clean, intuitive interfaces and accessibility come first. I like building things that feel obvious to the person actually using them.
-- 🧩 &nbsp;**I care about** developer experience, frontend tooling and library design, and keeping everything ergonomic and accessible.
-- 🛠️ &nbsp;**Ask me about** SDK & API-transport design, TypeScript monorepos, form engines, build-time plugins, keyboard ergonomics, and test-suite design across PHP and Node.
-- 🌱 &nbsp;**Always tinkering with** TypeScript, PHP, Vue/Nuxt, Astro, Svelte, React, Zod, and the tooling around monorepos (pnpm, Vitest, Playwright, PHPUnit).
-- ⚡ &nbsp;**Fun fact** — 18 years in retail and events before switching to dev. I still design software the way I learned to serve people: around the person using it.
+The frontend side is a set of small libraries that compose around the same data flow:
 
-<br/>
+- **[neXdk](https://github.com/techmefr/nexdk)**: a backend-agnostic frontend SDK, REST, GraphQL and WebSocket through one grammar. [Docs](https://techmefr.github.io/nexdk/)
+- **[dialectr](https://github.com/techmefr/dialectr)**: one query, any dialect. A zero-dependency query builder compiling to Lomkit, PocketBase and Strapi. [Docs](https://techmefr.github.io/dialectr/)
+- **[beepr](https://github.com/techmefr/beepr)**: a tiny, typed event and notification engine with composable adapters. [Docs](https://techmefr.github.io/beepr/)
+- **[shamock](https://github.com/techmefr/shamock)**: schema-driven mocks and offline fallback, validated through Standard Schema. [Docs](https://techmefr.github.io/shamock/)
 
-## 🚀 Featured Projects
+## Apps
 
-> ### 🛠️ &nbsp;[HeryJs](https://github.com/techmefr/HeryJs) &nbsp;·&nbsp; a framework on top of NestJS
-> Generate once, own your code. A CLI scaffolds a real, readable NestJS codebase — auth, permissions resolved server-side, multi-tenancy as a foundation — instead of a schema that keeps re-syncing at runtime. The way Nuxt sits on Vue, HeryJs sits on NestJS.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **[Lumia](https://github.com/techmefr/lumia)**: a self-hosted RSS reader that strips articles down to the article, summarises them and learns your tastes. [Demo](https://techmefr.github.io/lumia/)
+- **[FamiList](https://github.com/techmefr/familist)**: a household shopping list that reorders itself along the real aisle layout of each shop. [Demo](https://techmefr.github.io/familist/)
+- **[amiLudo](https://github.com/techmefr/amiludo)**: a board game night companion: scores, dice, timers, teams and game nights. Offline first, no ads. [Demo](https://techmefr.github.io/amiludo/app/)
+- **[Maki Story](https://github.com/techmefr/maki-story)**: paper books read aloud by the people you love, each voice with its own color. [Live](https://tantara.vercel.app)
 
-> ### 🔌 &nbsp;[neXdk](https://github.com/techmefr/nexdk) &nbsp;·&nbsp; driver-based, backend-agnostic SDK
-> One SDK — `sdk.[driver].[resource].[method]` — for **REST, GraphQL and WebSocket**. Declare a resource once against a [Standard Schema](https://standardschema.dev) validator (Zod, Valibot, ArkType…) and swap the driver underneath without touching the calling code.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-4a4a4a?style=flat-square&logo=pnpm&logoColor=f69220) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+## Developer tools
 
-> ### 🧪 &nbsp;[test-casebook](https://github.com/techmefr/test-casebook) &nbsp;·&nbsp; exhaustive testing doctrine for AI agents
-> A playbook that stops an AI from writing happy-path-only tests: plan every case from the source first, weight the persona matrix on what gets *refused* not just what's allowed, gate every block behind an independent review, enforce a real coverage floor. Validated end to end on 18 frameworks across three repos — frontend/DOM, [Node/TS backends](https://github.com/techmefr/test-casebook-back-js), and [PHP backends](https://github.com/techmefr/test-casebook-back-php).
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
+- **[kodilo](https://github.com/techmefr/kodilo)**: 238 developer tools that run entirely in your browser. No sign-up, no account, no tracking. [Live](https://techmefr.github.io/kodilo/)
+- **[forge-ops](https://github.com/techmefr/forge-ops)**: a story-driven board for coding agents that refuses to let a story advance without proof on disk. [Docs](https://techmefr.github.io/forge-ops/)
 
-> ### 🧹 &nbsp;[env-attr-cleaner](https://github.com/techmefr/env-attr-cleaner) &nbsp;·&nbsp; strip test attributes at build time
-> A build plugin that removes `data-*` test attributes from production while keeping them in dev and test — stable E2E selectors, clean production DOM. Ships as `@datapower/unplugin` & `@datapower/bun` across Vite, Rollup, Webpack, esbuild and Bun. Running in production across several Xefi business units, on both Nuxt and React/Next.js codebases.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+## UI and build libraries
 
-> ### 📱 &nbsp;[v0-adaptive-table](https://github.com/techmefr/v0-adaptive-table) &nbsp;·&nbsp; responsive table/card renderer for @vuetify/v0
-> `@vuetify/v0` ships table logic (sorting, filtering, pagination, selection) but no visual layer and no table-to-card responsive mode — this package adds both. One field config drives a desktop table and a mobile card list, unstyled by default with an opt-in Material-ish stylesheet.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+- **[charpente](https://github.com/techmefr/charpente)**: pure CSS skeleton loaders, no runtime JS, 35 themes. [Demo](https://techmefr.github.io/charpente/)
+- **[v0-adaptive-table](https://github.com/techmefr/v0-adaptive-table)**: a responsive table and card renderer for `@vuetify/v0`. [Docs](https://techmefr.github.io/v0-adaptive-table/)
+- **[env-attr-cleaner](https://github.com/techmefr/env-attr-cleaner)**: strips `data-test-*` attributes from production builds, for Vite, Rollup, Webpack, esbuild and Bun. [npm](https://www.npmjs.com/package/env-attr-cleaner)
 
-<br/>
+## AI agents and testing
 
-## 🧩 TypeScript ecosystem
+- **[mentis](https://github.com/techmefr/mentis)**: harness-neutral skills, blocks and agents for AI coding agents, with a fresh-context review gate.
+- **[test-casebook](https://github.com/techmefr/test-casebook)**: an exhaustive, data-test-driven testing doctrine for frontend stacks, with playbooks for [Node/TypeScript](https://github.com/techmefr/test-casebook-back-js) and [PHP](https://github.com/techmefr/test-casebook-back-php) backends.
 
-Four independent libraries that compose around the same data flow:
+## Stack
 
-| Project | Purpose |
-|---|---|
-| [**neXdk**](https://github.com/techmefr/nexdk) | Typed SDK for REST, GraphQL and WebSocket, using interchangeable backend drivers. |
-| [**dialectr**](https://github.com/techmefr/dialectr) | Typed query builder with Lomkit, PocketBase and Strapi adapters. |
-| [**beepr**](https://github.com/techmefr/beepr) | Typed event and notification engine, built on hookable. |
-| [**shamock**](https://github.com/techmefr/shamock) | Schema-driven mock engine: fixtures, mock data and offline fallback, validated through Standard Schema. |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo-lockup.svg" alt="neXdk" width="190"></a>
-  <a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="190"></a>
-  <a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="190"></a>
-  <a href="https://github.com/techmefr/dialectr"><img src="https://raw.githubusercontent.com/techmefr/dialectr/main/docs/public/logo.png" alt="dialectr" width="190"></a>
-</p>
-
-[neXdk docs](https://techmefr.github.io/nexdk/) · [beepr docs](https://techmefr.github.io/beepr/) · [shamock docs](https://techmefr.github.io/shamock/)
-
-[dialectr docs](https://techmefr.github.io/dialectr/) · One query, any dialect
-
-## 💻 Tech Stack
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Data & Backends**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hasura](https://img.shields.io/badge/hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tooling & DevOps**
-
-![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-
-**Design & Hardware**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-<br/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=120&section=footer" alt="footer" width="100%" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=techmefr&label=Profile+views&color=9D4EDD&style=for-the-badge" alt="Profile views" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>

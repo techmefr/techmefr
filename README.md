@@ -101,8 +101,10 @@ Scores, dice, timers, teams, a game shelf and game nights with sign-ups. Offline
 <a href="https://techmefr.github.io/amiludo/app/"><b>Live demo →</b></a>
 </td>
 <td width="50%" valign="top">
+<img src="assets/logos/maki-story.png" alt="" width="56" align="left" />
 <b><a href="https://github.com/techmefr/maki-story">Maki Story</a></b><br/>
-<sub>Family audio books</sub><br/><br/>
+<sub>Family audio books</sub>
+<br clear="left"/>
 Paper books read aloud by the people you love, each voice with its own color.<br/><br/>
 <a href="https://tantara.vercel.app"><b>Live app →</b></a>
 </td>

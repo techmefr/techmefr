@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/51131564?s=400&u=3cb50b9bf1caa3bf846b77707f5ef5c18bbe4c5e&v=4" alt="Profile picture" width="120" />
-</div>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Exhaustive+test+doctrines+for+AI+agents+%28test-casebook%29;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Frontend developer and open-source builder" />
 

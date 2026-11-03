@@ -1,10 +1,14 @@
 <div align="center">
+  <img src="banner-EN-github.png" alt="Software designer and developer. Design for the user, develop for the future. Gaëtan Compigni" width="100%" />
+</div>
 
-# Gaëtan Compigni
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/51131564?s=400&u=3cb50b9bf1caa3bf846b77707f5ef5c18bbe4c5e&v=4" alt="Profile picture" width="120" />
+</div>
 
-**Frontend developer · open-source builder**
+<div align="center">
 
-A NestJS framework, the TypeScript libraries around it,<br/>and the apps and tools I build with them.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=45&lines=Frontend+developer+%26+open-source+builder;Backend-agnostic+SDKs+%E2%86%92+one+grammar%2C+any+backend;Exhaustive+test+doctrines+for+AI+agents+%28test-casebook%29;Developer+tooling%2C+build+plugins+%26+monorepos;TypeScript%2C+Zod-typed%2C+ergonomics-first;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Frontend developer and open-source builder" />
 
 <a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/techmefr?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>

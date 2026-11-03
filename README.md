@@ -1,52 +1,162 @@
-## Hi, I'm Gaëtan
+<div align="center">
 
-Frontend developer and open-source builder. I spent 18 years in retail and events before switching to code, and I still design software around the person who uses it: clear interfaces, accessibility first, tools that feel obvious.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=200&section=header&text=Ga%C3%ABtan%20Compigni&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20developer%20%C2%B7%20open-source%20builder&descSize=18&descAlignY=58" alt="Gaëtan Compigni, frontend developer and open-source builder" width="100%" />
 
-Most of my work is TypeScript: a backend framework, the libraries around it, and the apps and tools I build with them.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=720&height=40&lines=Generate+your+NestJS+backend%2C+then+own+every+line;One+SDK%2C+any+backend;Tools+that+run+in+your+browser%2C+no+account+needed;18+years+in+retail+%E2%86%92+now+shipping+open+source" alt="Generate your NestJS backend, then own every line. One SDK, any backend. Tools that run in your browser. 18 years in retail, now shipping open source." />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaetancompigni)
+<a href="https://linkedin.com/in/gaetancompigni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/techmefr?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>
 
-## Flagship: HeryJs and its toolkit
+</div>
 
-**[HeryJs](https://github.com/techmefr/HeryJs)** is a batteries-included framework for NestJS. Generate secured, multi-tenant resources from a blueprint, then own every line: auth, RBAC, Postgres RLS, jobs, real time, vector search, OpenAPI. [Docs](https://techmefr.github.io/HeryJs/)
+I spent 18 years in retail and events before switching to code, and I still build software the way I learned to serve people: around the person using it. Clear interfaces, accessibility first, and tools that feel obvious.
 
-The frontend side is a set of small libraries that compose around the same data flow:
+<br/>
 
-- **[neXdk](https://github.com/techmefr/nexdk)**: a backend-agnostic frontend SDK, REST, GraphQL and WebSocket through one grammar. [Docs](https://techmefr.github.io/nexdk/)
-- **[dialectr](https://github.com/techmefr/dialectr)**: one query, any dialect. A zero-dependency query builder compiling to Lomkit, PocketBase and Strapi. [Docs](https://techmefr.github.io/dialectr/)
-- **[beepr](https://github.com/techmefr/beepr)**: a tiny, typed event and notification engine with composable adapters. [Docs](https://techmefr.github.io/beepr/)
-- **[shamock](https://github.com/techmefr/shamock)**: schema-driven mocks and offline fallback, validated through Standard Schema. [Docs](https://techmefr.github.io/shamock/)
+## ⭐ Flagship: HeryJs
 
-## Apps
+<table>
+<tr>
+<td>
 
-- **[Lumia](https://github.com/techmefr/lumia)**: a self-hosted RSS reader that strips articles down to the article, summarises them and learns your tastes. [Demo](https://techmefr.github.io/lumia/)
-- **[FamiList](https://github.com/techmefr/familist)**: a household shopping list that reorders itself along the real aisle layout of each shop. [Demo](https://techmefr.github.io/familist/)
-- **[amiLudo](https://github.com/techmefr/amiludo)**: a board game night companion: scores, dice, timers, teams and game nights. Offline first, no ads. [Demo](https://techmefr.github.io/amiludo/app/)
-- **[Maki Story](https://github.com/techmefr/maki-story)**: paper books read aloud by the people you love, each voice with its own color. [Live](https://tantara.vercel.app)
+### [HeryJs](https://github.com/techmefr/HeryJs)
 
-## Developer tools
+**The batteries-included framework for NestJS.** Describe your resources in a blueprint, generate a secured, multi-tenant backend, then own every line of it. No runtime schema to keep in sync.
 
-- **[kodilo](https://github.com/techmefr/kodilo)**: 238 developer tools that run entirely in your browser. No sign-up, no account, no tracking. [Live](https://techmefr.github.io/kodilo/)
-- **[forge-ops](https://github.com/techmefr/forge-ops)**: a story-driven board for coding agents that refuses to let a story advance without proof on disk. [Docs](https://techmefr.github.io/forge-ops/)
+`Auth` `RBAC` `Postgres RLS` `Jobs` `Real time` `Vector search` `OpenAPI` `MCP`
 
-## UI and build libraries
+[**Read the docs →**](https://techmefr.github.io/HeryJs/)
 
-- **[charpente](https://github.com/techmefr/charpente)**: pure CSS skeleton loaders, no runtime JS, 35 themes. [Demo](https://techmefr.github.io/charpente/)
-- **[v0-adaptive-table](https://github.com/techmefr/v0-adaptive-table)**: a responsive table and card renderer for `@vuetify/v0`. [Docs](https://techmefr.github.io/v0-adaptive-table/)
-- **[env-attr-cleaner](https://github.com/techmefr/env-attr-cleaner)**: strips `data-test-*` attributes from production builds, for Vite, Rollup, Webpack, esbuild and Bun. [npm](https://www.npmjs.com/package/env-attr-cleaner)
+</td>
+</tr>
+</table>
 
-## AI agents and testing
+**The frontend toolkit around it.** Four small, typed libraries that compose around the same data flow:
 
-- **[mentis](https://github.com/techmefr/mentis)**: harness-neutral skills, blocks and agents for AI coding agents, with a fresh-context review gate.
-- **[test-casebook](https://github.com/techmefr/test-casebook)**: an exhaustive, data-test-driven testing doctrine for frontend stacks, with playbooks for [Node/TypeScript](https://github.com/techmefr/test-casebook-back-js) and [PHP](https://github.com/techmefr/test-casebook-back-php) backends.
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/techmefr/nexdk"><img src="https://raw.githubusercontent.com/techmefr/nexdk/main/docs/public/logo.png" alt="neXdk" width="120" /></a><br/>
+<b><a href="https://github.com/techmefr/nexdk">neXdk</a></b><br/>
+<sub>One SDK for REST, GraphQL and WebSocket, any backend</sub><br/>
+<a href="https://techmefr.github.io/nexdk/">Docs</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/techmefr/dialectr"><img src="https://raw.githubusercontent.com/techmefr/dialectr/main/docs/public/logo.png" alt="dialectr" width="120" /></a><br/>
+<b><a href="https://github.com/techmefr/dialectr">dialectr</a></b><br/>
+<sub>One query, any dialect: Lomkit, PocketBase, Strapi</sub><br/>
+<a href="https://techmefr.github.io/dialectr/">Docs</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/techmefr/beepr"><img src="https://raw.githubusercontent.com/techmefr/beepr/main/docs/public/logo.png" alt="beepr" width="120" /></a><br/>
+<b><a href="https://github.com/techmefr/beepr">beepr</a></b><br/>
+<sub>Typed events and notifications, composable adapters</sub><br/>
+<a href="https://techmefr.github.io/beepr/">Docs</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/techmefr/shamock"><img src="https://raw.githubusercontent.com/techmefr/shamock/main/docs/public/logo.png" alt="shamock" width="120" /></a><br/>
+<b><a href="https://github.com/techmefr/shamock">shamock</a></b><br/>
+<sub>Schema-driven mocks and offline fallback</sub><br/>
+<a href="https://techmefr.github.io/shamock/">Docs</a>
+</td>
+</tr>
+</table>
 
-## Stack
+<br/>
+
+## 📱 Apps you can try
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/techmefr/lumia/main/docs/brand/lumia-icon.svg" alt="" width="48" align="left" />
+<b><a href="https://github.com/techmefr/lumia">Lumia</a></b><br/>
+<sub>Self-hosted RSS reader</sub>
+<br clear="left"/>
+Strips articles down to the article, summarises them and learns your tastes. Playlists, text to speech, saved reading position.<br/><br/>
+<a href="https://techmefr.github.io/lumia/"><b>Live demo →</b></a>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/techmefr/familist/main/static/logo.svg" alt="" width="48" align="left" />
+<b><a href="https://github.com/techmefr/familist">FamiList</a></b><br/>
+<sub>Household shopping list</sub>
+<br clear="left"/>
+Reorders itself along the real aisle layout of each shop, so you walk the store once. Web and native mobile.<br/><br/>
+<a href="https://techmefr.github.io/familist/"><b>Live demo →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/techmefr/amiludo/main/design/logo/amiludo-app-icon.svg" alt="" width="48" align="left" />
+<b><a href="https://github.com/techmefr/amiludo">amiLudo</a></b><br/>
+<sub>Board game night companion</sub>
+<br clear="left"/>
+Scores, dice, timers, teams, a game shelf and game nights with sign-ups. Offline first, no ads. Android, iOS and web.<br/><br/>
+<a href="https://techmefr.github.io/amiludo/app/"><b>Live demo →</b></a>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/techmefr/maki-story">Maki Story</a></b><br/>
+<sub>Family audio books</sub><br/><br/>
+Paper books read aloud by the people you love, each voice with its own color.<br/><br/>
+<a href="https://tantara.vercel.app"><b>Live app →</b></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Developer tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/techmefr/kodilo/main/public/apple-touch-icon.png" alt="" width="48" align="left" />
+<b><a href="https://github.com/techmefr/kodilo">kodilo</a></b><br/>
+<sub>238 tools in your browser</sub>
+<br clear="left"/>
+JSON, encoding, email, colors and more. No sign-up, no account, no tracking.<br/><br/>
+<a href="https://techmefr.github.io/kodilo/"><b>Open kodilo →</b></a>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/techmefr/forge-ops/main/src-tauri/app-icon.svg" alt="" width="48" align="left" />
+<b><a href="https://github.com/techmefr/forge-ops">forge-ops</a></b><br/>
+<sub>Proof-driven board for coding agents</sub>
+<br clear="left"/>
+A story only moves forward with evidence on disk, a twin test story and a final human gate.<br/><br/>
+<a href="https://techmefr.github.io/forge-ops/"><b>Docs →</b></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧩 UI and build libraries
+
+| | |
+|---|---|
+| [**charpente**](https://github.com/techmefr/charpente) | Pure CSS skeleton loaders: no runtime JS, 35 themes, seasonal themes by date. [Demo](https://techmefr.github.io/charpente/) |
+| [**v0-adaptive-table**](https://github.com/techmefr/v0-adaptive-table) | Responsive table and card renderer for `@vuetify/v0`. [Docs](https://techmefr.github.io/v0-adaptive-table/) |
+| [**env-attr-cleaner**](https://github.com/techmefr/env-attr-cleaner) | Strips `data-test-*` attributes from production builds: Vite, Rollup, Webpack, esbuild, Bun. [npm](https://www.npmjs.com/package/env-attr-cleaner) |
+
+## 🤖 AI agents and testing
+
+| | |
+|---|---|
+| [**mentis**](https://github.com/techmefr/mentis) | Harness-neutral skills, blocks and agents for AI coding agents, with a fresh-context review gate. |
+| [**test-casebook**](https://github.com/techmefr/test-casebook) | An exhaustive testing doctrine for frontend stacks, with playbooks for [Node/TypeScript](https://github.com/techmefr/test-casebook-back-js) and [PHP](https://github.com/techmefr/test-casebook-back-php) backends. |
+
+<br/>
+
+## 💻 Stack
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -54,8 +164,14 @@ The frontend side is a set of small libraries that compose around the same data 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
+</div>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/techmefr/techmefr/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:128F8B,100:44D62C&height=110&section=footer" alt="" width="100%" />
